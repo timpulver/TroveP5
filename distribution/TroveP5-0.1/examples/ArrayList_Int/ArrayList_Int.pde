@@ -1,11 +1,11 @@
 /**
- * PrimitiveTypeCollections is a wrapper for the java library Trove,
+ * TroveP5 is a wrapper for the java library Trove,
  * which implements classes to use primitive types (like int or float) 
  * with collections like ArrayList.
  * For all features of Trove see Javadoc here: 
  * http://trove4j.sourceforge.net/javadocs/
  * 
- * PrimitiveTypeCollections example - TIntArrayList
+ * TroveP5 - TIntArrayList
  *
  * You can use the TIntArrayList container, 
  * if you need a functionality like ArrayList<int>
